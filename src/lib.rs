@@ -18,7 +18,6 @@
 */
 pub fn conv(s: &str) -> String
 {
-	println!("converting string: {}", s);
 	let tps: Vec<(&str, &str, &str, &str)> = s.to_uppercase().chars()
 		.map(|c| to4x4(c)).collect();
 	let mut s0: String = String::new();
