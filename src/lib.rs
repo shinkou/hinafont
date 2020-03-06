@@ -2,7 +2,7 @@
  *  Hinafont - ASCII font arts library
  *  Copyright (C) 2020  Chun-Kwong Wong
  *  chunkwong.wong@gmail.com
- *  https://github.com/shinkou/hinagen
+ *  https://github.com/shinkou/hinafont
  *
  *  This program is free software: you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
